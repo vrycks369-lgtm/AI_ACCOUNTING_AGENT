@@ -1,0 +1,18 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+*.zip
+
+# Local accounting data files
+account_masterfile.csv
+account_masterfile.xlsx
+
+# Local accounting data files
+account_masterfile.csv
+account_masterfile.xlsx
